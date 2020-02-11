@@ -33,7 +33,7 @@ end
 
 def retrieve_first_element_from_array(array)
   snack = ["wow", "I", "am", "really", "learning", "arrays!"]
-  snack
+  snack[0]
 end
 
 def retrieve_last_element_from_array(array)
